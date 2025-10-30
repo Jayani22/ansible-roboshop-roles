@@ -1,4 +1,3 @@
 MONGODB_HOST: mongodb.jayani23.fun
 REDIS_HOST: redis.jayani23.fun
 CATALOGUE_HOST: catalogue.jayani23.fun
-CART_HOST: cart.jayani23.fun
